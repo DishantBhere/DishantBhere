@@ -1,3 +1,6 @@
+![DISHANT BHERE](https://github.com/user-attachments/assets/6b783c10-6c72-491b-84c3-f591c3b5475a)
+
+
 <h1>Hi 👋, I'm in T.Y BSC.IT student</h1>
 <p>A passionate frontend developer from Mumbai</p>
 <h2>🚀 Languages and Tools I Use</h2>
