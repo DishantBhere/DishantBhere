@@ -1,170 +1,31 @@
-  <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
-</div>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake"></a>
-</div>
-<hr>
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="azzar" height="30"></a>
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=1999AZZAR&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" height="25" alt="views count"></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" src="https://img.shields.io/website?down_message=offline&amp;style=for-the-badge&amp;up_message=online&amp;url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website"></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center" src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built"></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&amp;style=for-the-badge" height="25" alt="lisense"></a>
-  <a href="github.com/1999AZZAR"><img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="work on my machine"></a>
- </p>
- </samp>
-</div>
-</details>
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br>
-    <details open="">
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
-          </a>
-        </p>
-</details>
-    <details open="">
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&amp;theme=gruvbox&amp;hide_border=true">
-          </a>
-       </p>
-     <br>
-     
-  </details></samp></div>    
-</details>
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true"></a>
-<br>
-  </samp>
-  </details>
-<details>
-  <summary>🌏 global</summary>
-  <br>
-  <details open="">
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img="" align="center" height="50" alt="for the badge"></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img="" align="center" height="50" alt="badgen"></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img="" align="center" height="50" alt="shields.io"></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open="">
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/*</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">*/</span></span></code></pre>
-</details>
-<br>
-</details> 
-<hr>
-<p>Credits: <a href="https://github.com/1999AZZAR">1999AZZAR</a>
-Last Edited on: 23/09/2022</p> 
+<h1>Hi 👋, I'm Third Year BSC.IT student</h1>
+<p>A passionate frontend developer from Mumbai</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22Third%20year%20bsc.it%20student.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-04-11T13%3A30%3A31.462Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F0ebcb689b5ec4bec%2FThird%2520year%2520bsc.it%2520student.png%3FExpires%3D1839072631%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DbTKbVHlG6cwcddJvOFA81~VWV-RhtTlh08rxXP7iHl9Zga6G5PKscSzOsGpEH-cZio-F5teh2hJbxFB42wz4-xuNYS7IeIrX1EZO-r5bkfutxQTFaJXqWion8Mmx6M~ea0Jdj3WOSIjyXPmrqjduQDTDw0pZV6Kbl2d5VPkIjaaOEHpem2SxtGDBA3FXI1cyqt3nUMKjJakBkmAyt55tVhYdasdhIyw4z3unZzYqnhP9~zbWroftpIClx3ZEq9PvJMgMfAse2KelxzaOqQX1jiL76hCHU9SdPGw~4P2M6LiW2CreX-Owmcw4UFuxnaFgJ-841Life6U5dXGe5p3P5g__%22%7D"></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/_Dishant_74" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/Dishant Bhere" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/_dishant_bhere_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DishantBhere&show_icons=true&locale=en" alt="DishantBhere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DishantBhere&" alt="DishantBhere" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DishantBhere&show_icons=true&locale=en&layout=compact" alt="DishantBhere" /></p>
