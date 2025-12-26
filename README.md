@@ -113,10 +113,10 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantBhere&theme=midnight_purple&utcOffset=8)
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/cbf92a78-8a79-470d-971a-cb055dba2ce9"
-    width="120"
-    alt="pixel fox"
+  <img
+    src="https://raw.githubusercontent.com/DishantBhere/DishantBhere/main/ezgif-5d682792a067c808.gif"
+    width="200"
+    alt="pixel fox mascot"
   />
 </p>
 
