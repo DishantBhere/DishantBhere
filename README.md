@@ -7,7 +7,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   </p>
 <p align="center">
  
-![profile banner]([https://raw.githubusercontent.com/DishantBhere/redmi/refs/heads/main/space.gif?token=GHSAT0AAAAAADOLSMG2GFLH426UNWFLW4GO2KORYZA)
+![profile banner]([https://raw.githubusercontent.com/DishantBhere/DishantBhere/refs/heads/main/space.gif)
 
 </p>
 
