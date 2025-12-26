@@ -57,23 +57,28 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 # Social  Media
 
-<p align="center">
-  <a href="https://github.com/DishantBhere">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-  </a>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
+</a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/dishant-bhere/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://www.instagram.com/_dishant_bhere_/?igsh=dXhwN2wzYnhqdGRn#">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  <a href="https://codepen.io/YOUR_CODEPEN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" />
   </a>
 </p>
+
+
+
+
+
+
 
 # Tech Stack 
 <h3 align="center">Frontend</h3>
