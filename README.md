@@ -3,7 +3,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <div align="center">
  <p>
-  Leadership, Software Architecture, Development, Scjence & Technology
+  Software Engineering, Architecture, Development & Technology
   </p>
 <p align="center">
  
