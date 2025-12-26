@@ -70,7 +70,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://www.instagram.com/_dishant_bhere_/?igsh=dXhwN2wzYnhqdGRn#">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" />
   </a>
-  <a href="https://codepen.io/YOUR_CODEPEN_USERNAME">
+  <a href="https://codepen.io/DishantBhere">
     <img src="https://skillicons.dev/icons?i=codepen&theme=dark" width="44" />
   </a>
 </p>
