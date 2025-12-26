@@ -115,7 +115,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/DishantBhere/DishantBhere/main/ezgif-5d682792a067c808.gif"
-    width="200"
+    width="100"
     alt="pixel fox mascot"
   />
 </p>
