@@ -1,39 +1,133 @@
-![DISHANT BHERE](https://github.com/user-attachments/assets/6b783c10-6c72-491b-84c3-f591c3b5475a)
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Dishant Bhere</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<div align="center">
+ <p>
+  Leadership, Software Architecture, Development, Scjence & Technology
+  </p>
+<p align="center">
+ 
+![profile banner]([https://raw.githubusercontent.com/DishantBhere/redmi/refs/heads/main/space.gif?token=GHSAT0AAAAAADOLSMG2GFLH426UNWFLW4GO2KORYZA)
+
+</p>
 
 
-<h1>Hi 👋, I'm in T.Y BSC.IT student</h1>
-<p>A passionate frontend developer from Mumbai</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<ul>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/_Dishant_74" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/Dishant-Bhere" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/_dishant_bhere_" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DishantBhere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DishantBhere&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishantBhere&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=DishantBhere&icon=4&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="
+        background:#0c0c0d;
+        border-radius:16px;
+        padding:22px 28px;
+        color:#e6edf3;
+        font-family:monospace;
+        line-height:1.7;
+        border:1px solid rgba(138,180,248,0.35);
+        box-shadow:
+          0 0 25px rgba(138,180,248,0.55),
+          0 0 60px rgba(138,180,248,0.35),
+          inset 0 0 18px rgba(138,180,248,0.18);
+      ">
+<pre style="margin:0; white-space:pre-wrap;">
+🎓 BSc Information Technology • Aspiring Tech Professional
+🤖 Artificial Intelligence • Ethical Hacking • Cybersecurity
+🌐 Web Development • Back-end Engineering • APIs
+☁️ Cloud Computing • Databases • DevOps & Automation Basics
+🛠️ Project-driven Learner • Curious About Systems & Security
+</pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+# Social  Media
+
+<p align="center">
+  <a href="https://github.com/DishantBhere">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
+
+# Tech Stack 
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet" />
+</p>
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin" />
+</p>
+
+<h3 align="center">Cloud, Databases & ML</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,mongodb,mysql,sqlite,tensorflow,pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,arduino,figma,vscode,bash" />
+</p>
+
+
+<h2 align="center">📊 My GitHub Stats 📊</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DishantBhere&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantBhere&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantBhere&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantBhere&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantBhere&theme=midnight_purple&utcOffset=8)
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/cbf92a78-8a79-470d-971a-cb055dba2ce9"
+    width="120"
+    alt="pixel fox"
+  />
+</p>
+
+
+
+
+<div align="center">
+  <h3 align="center">Thanks for visiting! ✨</h3>
+  <img
+  src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
+  width="1920"
+/>
+
+
+
