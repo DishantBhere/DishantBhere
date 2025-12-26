@@ -57,20 +57,21 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 # Social  Media
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="48" />
-</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dishant-bhere/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_dishant_bhere_/?igsh=dXhwN2wzYnhqdGRn#">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" />
+  </a>
   <a href="https://codepen.io/YOUR_CODEPEN_USERNAME">
-    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" width="44" />
   </a>
 </p>
 
