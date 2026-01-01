@@ -70,7 +70,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
   <a href="https://www.instagram.com/_dishant_bhere_/?igsh=dXhwN2wzYnhqdGRn#">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" />
   </a>
- <a href="mailto:dishantwork7@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishantwork7@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44" />
 </a>
   <a href="https://codepen.io/DishantBhere">
