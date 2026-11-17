@@ -130,13 +130,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 </p>
 
 ## The city I built this year
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./maeul-in-the-sky-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./maeul-in-the-sky-light.svg">
-  <img alt="GitHub contribution terrain" src="./maeul-in-the-sky-dark.svg" width="100%">
-</picture>
-
+<p align="center">
+  <img src="./profile-3d-contrib/teal.svg" width="100%" alt="Contribution City" />
+</p>
 
 <div align="center">
   <h3 align="center">Thanks for visiting! ✨</h3>
