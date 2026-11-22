@@ -51,6 +51,19 @@
 <a href="https://dishantbhere.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-E62429?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" width="200" height="46" alt="Portfolio" /></a>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-red.svg" width="100%" alt="3D contributions" />
+</p>
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
+
 <img src="https://github.com/user-attachments/assets/bff1765d-61f9-43af-9ed9-384d043d570d" align="left" width="230" />
 
 ![Beyond the code](https://img.shields.io/badge/Beyond_the_code-B00000?style=for-the-badge&labelColor=000000)
