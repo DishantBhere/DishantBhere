@@ -1,152 +1,59 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Dishant Bhere</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<img width="100%" alt="Dishant Bhere banner" src="https://github.com/user-attachments/assets/a0fd3db9-5c19-4279-b8ff-ee69c07bb1bb" />
 
-<div align="center">
- <p>
-  Software Engineering, Architecture, Development & Technology
-  </p>
-<p align="center">
- 
-![profile banner](https://raw.githubusercontent.com/DishantBhere/DishantBhere/main/space.gif)
+Full Stack Developer and Data Analyst from Mumbai. Building web apps with React, Next.js and AI, turning data into decisions. Fresher, open to roles.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
-</p>
+<img src="https://github.com/user-attachments/assets/0e1f3cea-c64d-442f-aa2d-d7ace2f05d90" align="right" width="260" />
 
+![Hey It's me Dishant](https://img.shields.io/badge/Hey_It%27s_me_Dishant-B00000?style=for-the-badge&labelColor=000000)
 
+### 🕷️ Full Stack Dev, Data Analyst, Vibecoder
 
+📍 Mumbai, India<br>
+🎓 Recent B.Sc. IT graduate<br>
+📊 Data Analyst Intern at Alpha Dye Chem<br>
+💻 Full Stack Developer Intern at ElevanceSkills<br>
+🤖 Build with AI as a core tool: Claude, Gemini, Codex, Copilot<br>
+🚧 Building a Twitter/X clone and a school fintech platform<br>
+🔎 Looking for fresher roles<br clear="all" />
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
+<img src="https://github.com/user-attachments/assets/edb1baf2-7c08-40f6-8d4d-11d30d9a7d3e" align="left" width="260" />
 
+![Toolbox](https://img.shields.io/badge/Toolbox-B00000?style=for-the-badge&labelColor=000000)
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,fastapi,py,php,dotnet,c,cs,java,kotlin,aws,gcp,firebase,mongodb,mysql,sqlite,postgres,tensorflow,pytorch,pandas,sklearn,git,github,npm,linux,arduino,figma,vscode,bash&perline=9" /><br clear="all" />
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="
-        background:#0c0c0d;
-        border-radius:16px;
-        padding:22px 28px;
-        color:#e6edf3;
-        font-family:monospace;
-        line-height:1.7;
-        border:1px solid rgba(138,180,248,0.35);
-        box-shadow:
-          0 0 25px rgba(138,180,248,0.55),
-          0 0 60px rgba(138,180,248,0.35),
-          inset 0 0 18px rgba(138,180,248,0.18);
-      ">
-<pre style="margin:0; white-space:pre-wrap;">
-🎓 BSc Information Technology • Aspiring Tech Professional
-🤖 Artificial Intelligence • Ethical Hacking • Cybersecurity
-🌐 Web Development • Back-end Engineering • APIs
-☁️ Cloud Computing • Databases • DevOps & Automation Basics
-🛠️ Project-driven Learner • Curious About Systems & Security
-</pre>
-      </td>
-    </tr>
-  </table>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
+<img src="https://github.com/user-attachments/assets/810257b6-0f46-4c6d-bfb7-2113961a38b8" align="right" width="300" />
 
+![Swing by](https://img.shields.io/badge/Swing_by-1E4DB7?style=for-the-badge&labelColor=000000)
 
+### 🕷️ Your friendly neighborhood dev, find me here
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishantwork7@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="90" alt="Gmail" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dishant-bhere/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="90" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/_dishant_bhere_/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="90" alt="Instagram" /></a>&nbsp;
+<a href="https://t.me/TheREdFoX9"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="90" height="90" alt="Telegram" /></a>
+<br>
+<a href="https://x.com/_Dishant_74"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="90" alt="X" /></a>&nbsp;
+<a href="https://codepen.io/DishantBhere"><img src="https://skillicons.dev/icons?i=codepen&theme=dark" width="90" alt="CodePen" /></a>&nbsp;
+<a href="https://github.com/DishantBhere"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="90" alt="GitHub" /></a>&nbsp;
+<a href="https://dishantbhere.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="90" alt="Portfolio" /></a>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
+<img src="https://github.com/user-attachments/assets/bff1765d-61f9-43af-9ed9-384d043d570d" align="left" width="230" />
 
+![Beyond the code](https://img.shields.io/badge/Beyond_the_code-B00000?style=for-the-badge&labelColor=000000)
 
+### 🕸️ Gamer, Phone Nerd, Photography Fan
 
-# Social  Media
-
-<p align="center">
-  <a href="https://t.me/TheREdFoX9">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" />
-  </a>
-  <a href="https://www.linkedin.com/in/dishant-bhere/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" />
-  </a>
-  <a href="https://x.com/_Dishant_74">
-    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="45" />
-  </a>
-  <a href="https://www.instagram.com/_dishant_bhere_/?igsh=dXhwN2wzYnhqdGRn#">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="45" />
-  </a>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dishantwork7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="44" />
-</a>
-  <a href="https://codepen.io/DishantBhere">
-    <img src="https://skillicons.dev/icons?i=codepen&theme=dark" width="44" />
-  </a>
-</p>
-
-
-
-
-
-
-
-# Tech Stack 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,dotnet" />
-</p>
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,kotlin" />
-</p>
-
-<h3 align="center">Cloud, Databases & ML</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,mongodb,mysql,sqlite,tensorflow,pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" />
-</p>
-
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,linux,arduino,figma,vscode,bash" />
-</p>
-
-
-<h2 align="center">📊 My GitHub Stats 📊</h2>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DishantBhere&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantBhere&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantBhere&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantBhere&theme=midnight_purple)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantBhere&theme=midnight_purple&utcOffset=8)
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/DishantBhere/DishantBhere/main/ezgif-5d682792a067c808.gif"
-    width="150"
-    alt="pixel fox mascot"
-  />
-</p>
-
-## The city I built this year
-<p align="center">
-  <img src="./profile-3d-contrib/teal.svg" width="100%" alt="Contribution City" />
-</p>
-
-<div align="center">
-  <h3 align="center">Thanks for visiting! ✨</h3>
-  <img
-  src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif"
-  width="1920"
-/>
-
-
-## The city I built this year
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contributions" />
-</p>
-
-
-
+🎮 GTA 5 on weekends<br>
+📱 Mobile tech and troubleshooting<br>
+📸 Photography<br>
+📲 Curious how social platforms work<br>
+🕷️ Spider-Man fan<br clear="all" />
