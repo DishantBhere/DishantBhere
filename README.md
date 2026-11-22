@@ -1,6 +1,5 @@
 <img width="100%" alt="Dishant Bhere banner" src="https://github.com/user-attachments/assets/a0fd3db9-5c19-4279-b8ff-ee69c07bb1bb" />
 
-Full Stack Developer and Data Analyst from Mumbai. Building web apps with React, Next.js and AI, turning data into decisions. Fresher, open to roles.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
