@@ -3,19 +3,26 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
-<img src="https://github.com/user-attachments/assets/0e1f3cea-c64d-442f-aa2d-d7ace2f05d90" align="right" width="260" />
 
-![Hey It's me Dishant](https://img.shields.io/badge/Hey_It%27s_me_Dishant-B00000?style=for-the-badge&labelColor=000000)
 
-### 🕷️ Full Stack Dev, Data Analyst, Vibecoder
 
-<img align="top" height="24" src="https://img.shields.io/badge/BASED%20IN-Mumbai%2C%20India-E62429?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/EDUCATION-Recent%20B.Sc.%20IT%20Graduate-1E4DB7?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/INTERN-Data%20Analyst%20at%20Alpha%20Dye%20Chem-E62429?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/INTERN-Full%20Stack%20Developer%20at%20ElevanceSkills-1E4DB7?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/AI%20TOOLS-Claude%2C%20Gemini%2C%20Codex%2C%20Copilot-E62429?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/BUILDING-Twitter%2FX%20clone%20and%20school%20fintech%20platform-1E4DB7?style=flat-square&labelColor=000000" /><br>
-<img align="top" height="24" src="https://img.shields.io/badge/LOOKING%20FOR-Fresher%20roles-E62429?style=flat-square&labelColor=000000" /><br clear="all" />
+
+
+<img src="https://github.com/user-attachments/assets/0fdb94ed-998f-4f3d-a20b-16b1a741c8e7" align="right" width="300" />
+
+![Hey It's me Dishant](https://img.shields.io/badge/Hey_It%27s_me_Dishant-E62429?style=for-the-badge&labelColor=000000)
+
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=%24+Full+Stack+Developer;%24+Data+Scientist;%24+Researcher;%24+Contributor&font=VT323&size=34&layout=terminal&theme=matrix&color=ffffff&cursorColor=FFD21F&width=600&height=255)](https://github.com/DishantBhere)
+
+<br clear="all" />
+
+
+
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
 <img src="https://github.com/user-attachments/assets/edb1baf2-7c08-40f6-8d4d-11d30d9a7d3e" align="left" width="260" />
