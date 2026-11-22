@@ -9,14 +9,13 @@
 
 ### 🕷️ Full Stack Dev, Data Analyst, Vibecoder
 
-📍 Mumbai, India<br>
-🎓 Recent B.Sc. IT graduate<br>
-📊 Data Analyst Intern at Alpha Dye Chem<br>
-💻 Full Stack Developer Intern at ElevanceSkills<br>
-🤖 Build with AI as a core tool: Claude, Gemini, Codex, Copilot<br>
-🚧 Building a Twitter/X clone and a school fintech platform<br>
-🔎 Looking for fresher roles<br clear="all" />
-
+<img align="top" height="24" src="https://img.shields.io/badge/BASED%20IN-Mumbai%2C%20India-E62429?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/EDUCATION-Recent%20B.Sc.%20IT%20Graduate-1E4DB7?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/INTERN-Data%20Analyst%20at%20Alpha%20Dye%20Chem-E62429?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/INTERN-Full%20Stack%20Developer%20at%20ElevanceSkills-1E4DB7?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/AI%20TOOLS-Claude%2C%20Gemini%2C%20Codex%2C%20Copilot-E62429?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/BUILDING-Twitter%2FX%20clone%20and%20school%20fintech%20platform-1E4DB7?style=flat-square&labelColor=000000" /><br>
+<img align="top" height="24" src="https://img.shields.io/badge/LOOKING%20FOR-Fresher%20roles-E62429?style=flat-square&labelColor=000000" /><br clear="all" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=B00000&height=4" width="100%" />
 
 <img src="https://github.com/user-attachments/assets/edb1baf2-7c08-40f6-8d4d-11d30d9a7d3e" align="left" width="260" />
