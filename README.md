@@ -8,14 +8,13 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/0fdb94ed-998f-4f3d-a20b-16b1a741c8e7" align="right" width="260" />
-
 ![Hey It's me Dishant](https://img.shields.io/badge/Hey_It%27s_me_Dishant-E62429?style=for-the-badge&labelColor=000000)
 
-[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=%24+Full+Stack+Developer;%24+Data+Scientist;%24+Researcher;%24+Contributor&font=VT323&size=28&layout=terminal&theme=matrix&color=ffffff&cursorColor=FFD21F&width=480&height=235)](https://github.com/DishantBhere)
+<img src="https://github.com/user-attachments/assets/0fdb94ed-998f-4f3d-a20b-16b1a741c8e7" align="right" width="290" />
+
+[![Typing SVG](https://scribesvg.vercel.app/api/render?lines=%24+Full+Stack+Developer;%24+Data+Scientist;%24+Researcher;%24+Contributor&font=VT323&size=30&layout=terminal&theme=matrix&color=ffffff&cursorColor=FFD21F&width=500&height=300)](https://github.com/DishantBhere)
 
 <br clear="all" />
-
 
 
 
